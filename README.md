@@ -7,6 +7,7 @@ OC 版的瀑布流布局，基于 CollectionView，封装良好
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 在一些特殊的展示中，如：高度不定的图片资源等，瀑布流的布局很常见，大多数情况为了性能的优化，是在接口中读取宽高数据进行布局。
+
 | 名称 |1.列表页 |2.下拉过程 |3.展示瀑布流 |
 | ------------- | ------------- | ------------- | ------------- |
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-21/54867559.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-21/98264702.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-21/21579383.jpg) |
