@@ -3,7 +3,7 @@ OC 版的瀑布流布局，基于 CollectionView，封装良好
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
 ![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
-![](https://img.shields.io/badge/download-791K-brightgreen.svg)
+![](https://img.shields.io/badge/download-2.3MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 在一些特殊的展示中，如：高度不定的图片资源等，瀑布流的布局很常见，大多数情况为了性能的优化，是在接口中读取宽高数据进行布局。
